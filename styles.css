@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    background-color:lightblue;
+}
+img{
+    width:250px; 
+    height:250px;
+}
+.game{
+    color:Blue;
+}
+.actor{
+    color:red;
+}
+.movie{ 
+    color:yellow;
+}
+.artist{
+    color:green;
+}
+.font-family{
+    font-family:"Comic Sans";
+    font-size: 12px;
+    text-Align: center;
+    color: purple;
+}
